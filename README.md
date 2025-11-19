@@ -22,12 +22,6 @@ flowchart TD
     Block1 -.-> Step1
     Step5 -.->|Example: Glass Door<br/>Cannot use Standard Handle| Block2[ Warning]
     Block2 -.-> Step5
-
-    style Start fill:#e1f5e1
-    style Success fill:#e1f5e1
-    style Block1 fill:#ffe1e1
-    style Block2 fill:#fff4e1
-    style Summary fill:#e1f0ff
 ```
 
 ## Tech Stack

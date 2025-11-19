@@ -1,4 +1,3 @@
-```markdown
 # Door Configuration System
 
 ระบบ Configuration ประตู POC - เลือก spec ประตูพร้อมจุดตรวจสอบ แล้วส่งข้อมูลทาง email
@@ -179,4 +178,3 @@ erDiagram
 ## License
 
 MIT
-```
